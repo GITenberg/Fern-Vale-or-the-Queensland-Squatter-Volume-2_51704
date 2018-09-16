@@ -1,0 +1,22 @@
+_repo: Fern-Vale-or-the-Queensland-Squatter-Volume-2_51704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Munro, Colin
+    gutenberg_agent_id: '32507'
+    url: http://www.gutenberg.org/2009/agents/32507
+description: ''
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queensland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Fern Vale; or, the Queensland Squatter. Volume 2
+url: http://www.gutenberg.org/ebooks/51704
